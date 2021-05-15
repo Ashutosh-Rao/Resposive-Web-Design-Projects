@@ -1,0 +1,42 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fde%2Ff4%2F73%2Fdef473f3b4380d977d23ac2502cb1d77.jpg&f=1&nofb=1");
+    width: 1900px;
+    height: 2000px;
+}
+
+h1 {
+  text-align: center;
+  color: black ;
+}
+
+h2 {
+  text-align: center;
+  color: black;
+}
+
+p {
+  text-align: center;
+  text-indent: 100px;
+}
+
+#image {
+  max-width: 100%;
+  max-height: 900px;
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+#tribute-info {
+    max-width: 70%;
+    display: block;
+    height: auto;
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+}
+
+ol {
+  line-height: 2.8;
+}
