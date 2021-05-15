@@ -1,0 +1,52 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>Stan Lee</title>
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+</head>
+
+<body>
+  <div id="main">
+    <h1 id="title">Stan 'The Man' Lee</h1>
+    <div id="img-div">
+      <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Stan_Lee_by_Gage_Skidmore_3.jpg/220px-Stan_Lee_by_Gage_Skidmore_3.jpg" alt="Stan Lee at the Pheonix ComicCon in 2014">
+      <h2 id="img-caption">Stan Lee at the Pheonix ComicCon in 2014</h2>
+    </div>
+    <div id="tribute-info">
+      <p>Stan Lee was an American comic book writer, editor, publisher, and producer. He rose through the ranks of a family-run business to become Marvel Comics' primary creative leader for two decades, leading its expansion from a small division of a publishing house to a multimedia corporation that dominated the comics and movie industries.</p>
+      <h2>Interesting Facts:</h2>
+      <ol>
+        <li> His wife of nearly 70 years, Joan Boocock, was also his barber. So for the last 70 years of his life, he never had to pay a visit to the barber.
+        </li>
+        <li> Except for his stint in the U.S. Army during W.W.2., he worked in the same company from 1939 through to the 1990s. This company is of course Marvel Comics but when Stan Lee joined the company it was called Timely Comics. This was at the peak of the cartoon boom. Soon after that the company was rebranded as Atlas Comic and later to Marvel Comics. 
+        </li>
+        <li>  He worked with some of the best-known American cartoonists and writers of the mid-20th century making training films. This was when he was in the U.S. Army in W.W.2. He worked with Charles Addams (The Addams Family creator), Frank Capra who directed Mr. Smith Goes to Washington and It’s a Wonderful Life, William Saroyan, who won a Pulitzer Prize, and Theodore Geisel, who wrote the Dr. Suess book series.
+        </li>
+        <li> One of his first jobs was writing obituaries about celebrities in New York. Not surprisingly, he found this work to be too depressing so he quit soon afterward.
+        </li>
+        <li> His wife destroyed his typewriter during an argument. Years later he would say ‘’Too bad. I could’ve auctioned the parts and made a mint’’.
+        </li>
+        <li> The Incredible Hulk is famous for his green color, but this is only due to the publisher having difficulty in keeping the character consistently gray. So in Issue No.2 the character turned green without explanation. 
+        </li>
+        <li> His own autobiography was written as a comic strip. Amazing Fantastic Incredible: A Marvelous Memoir was written with the same style and flourish as his comics had been written. Except for this time, the central character was himself and chronicled his life up to 2015.
+        </li>
+        <li> He had his fair share of legal problems. This isn’t surprising, given his enormous success. Probably the most notorious case involved Peter Paul, who helped Stan Lee set up Stan Lee Media. This would allow Stan Lee to work on projects without gaining Marvel’s approval first. Sounds great until it was found that Peter Paul was exaggerating the size of the potential profits to investors and also manipulating stocks at the same time. Peter Paul was extradited from Brazil and busted in 2001. Stan Lee was entirely innocent but still, he could’ve done without the sheer embarrassment.
+        </li>
+        <li> Stan Lee made cameo appearances in 16 films that were all based on Marvel Comics. These included such hits as Doctor Strange, Thor, The Incredible Hulk, The Avengers, Iron Man, and finally Avengers: Endgame in 2019.
+        </li>
+        <li> It was on August 1, 1941, that he got his first break when he wrote a comic called ‘’Captain America Foils the Traitor’s Revenge.’’From there he would go on to become the most iconic and famous comic writer of all time. Beloved by millions of fans around the world, Stan Lee was working right up to his death on November 12, 2018, which means that his career in comics lasted an incredible 78 years.
+        </li>
+      </ol>
+      <hr>
+  	  <p>You can explore more about the amazing life of Stan Lee here <a href="https://en.wikipedia.org/wiki/Stan_Lee" id="tribute-link" target="_blank">here</a>. Thank you for reading!</p>
+      <p>This project was completed as a Responsive Web Design project for Free Code Camp. For more details, check here <a href="https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page" target="_blank">here</a>.</p>
+    </div>
+  </div>
+</body>
+
+</html> 
